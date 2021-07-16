@@ -1,1 +1,3 @@
-This is Regina's first git project!
+## Hi, I'm Regina!
+
+This is my first git project!
